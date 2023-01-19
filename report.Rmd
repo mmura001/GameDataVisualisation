@@ -1,0 +1,22 @@
+#report homework
+
+---
+title: "HW 1, CS 625, Spring 2023"
+author: "Manjushree Muralidhara"
+date: Jan 19, 2023
+output: rmarkdown::github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Git, GitHub
+
+1. *What is your GitHub username?*
+
+- mmura001
+
+2. *What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?*
+
+https://github.com/mmura001/data_vis.git
